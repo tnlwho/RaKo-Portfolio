@@ -1,4 +1,4 @@
-# ICT Curriculum (English)
+# ICT Curriculum
 
 This section contains my study notes and portfolio in English.
 
