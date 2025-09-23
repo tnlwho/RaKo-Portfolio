@@ -12,5 +12,5 @@ See leht dokumenteerib minu õpinguid **Infoturbe spetsialisti õppekavas** **Ra
 
 ## Choose your language / Vali keel
 
-- [🇬🇧 English version](docs/en/index.md)  
-- [🇪🇪 Eesti versioon](docs/et/index.md)
+- [🇬🇧 In English version](docs/en/index.md)  
+- [🇪🇪 Eesti keeles](docs/et/index.md)
