@@ -1,4 +1,4 @@
-# Infoturbe spetsialisti õppekava (Eesti keeles)
+# Infoturbe spetsialisti õppekava
 
 See osa sisaldab märkmeid ja portfooliot eesti keeles.
 
