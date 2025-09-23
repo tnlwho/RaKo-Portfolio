@@ -5,6 +5,7 @@ See osa sisaldab märkmeid ja portfooliot eesti keeles.
 ## Moodulid
 - [Skriptimine](skriptimine.md)
 - [Infoturbe haldamine](infoturbe-haldus.md)
+- [IT-lahenduste toimimise tagamine](it-lahenduste-toimimise-tagamine.md)
 - [Organisatsiooni
 talitluspidevuse haldamine](äripidevuse-juhtimine.md)
 - [Teenuste osutamine](teenuste-osutamine.md)
