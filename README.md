@@ -1,6 +1,4 @@
-# RaKo-Portfolio
-
-RaKo ICT Knowledge Base / RaKo Õpiportfell
+# RaKo ICT Knowledge Base / RaKo Õpiportfell
 
 Welcome!  
 This site documents my studies in the **ICT Security Specialist curriculum** at **Rapla County Applied College (RaKo)**.
