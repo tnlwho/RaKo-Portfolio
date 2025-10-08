@@ -8,4 +8,4 @@ See moodul kajastab skriptimist erinevates keeltes.
 - Bash Linuxi keskkonnas
 
 ## Seotud töö
-👉 Minu [Skriptimine repo](https://github.com/tnlwho/Skriptimine), kus on tunni harjutused, näited ja kodutööd.
+👉 Minu [Skriptimise repo](https://github.com/tnlwho/Skriptimine), kus on tunni harjutused, näited ja kodutööd.
